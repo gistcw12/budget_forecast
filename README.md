@@ -1,4 +1,4 @@
-# budget_forecast
+# Budget Forecast
 ## Simple budget forecast using Python Pandas. 
 
 The user enters all expenses and incomes items in a CSV file. 
