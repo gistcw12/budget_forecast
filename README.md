@@ -1,5 +1,5 @@
 # budget_forecast
-Simple budget forecast using Python Pandas. 
+## Simple budget forecast using Python Pandas. 
 
 The user enters all expenses and incomes items in a CSV file. 
 For example Expense Rent as -600, and Salary as 3000.
@@ -12,6 +12,6 @@ On program start the user is asked to enter:
 
 The given output should be the current projected account balance on the forecast date.
 
-To Do
+## To Do
 - [ ] Get all required user data.
 - [ ] Create a projected forecast by looping between the current date and forecast date.
